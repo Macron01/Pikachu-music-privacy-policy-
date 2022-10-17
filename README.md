@@ -10,3 +10,5 @@ Data is stored in a MongoDB database. The database is secured to prevent externa
 
 # User Rights
 At any time, you have the right to request to view the Data pertaining to your Discord account. You may submit a request through the Discord Server. You have the right to request the removal of relevant Data.
+# Support
+You can contact us if you have any questions https://discord.gg/kZfcR7hrfK
