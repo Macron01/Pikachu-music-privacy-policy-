@@ -1,4 +1,4 @@
-# Pisay-kun Bot Privacy Policy
+# Pikachu Music Bot Privacy Policy
  
 By having Pikachu music at your server you agree to the following privacy policy:
  
